@@ -12,7 +12,8 @@
 ---
 
 ### My status
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Raven533&show_icons=true&theme=dark&hide=stars,prs,contribs)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Raven533&show_icons=true&theme=dark&hide=stars,prs,contribs) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raven533&layout=compact&theme=dark)
 
 
 
